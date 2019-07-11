@@ -293,6 +293,24 @@ Accept pipeline input: False
 Accept wildcard characters: False
 ```
 
+
+### -EnableRgsBackupService
+PARAMVALUE: Int32
+
+```yaml
+Type: 
+Parameter Sets: (All)
+Aliases: 
+Applicable: Skype for Business Server 2019
+
+Required: 
+Position: 
+Default value: 
+Accept pipeline input: 
+Accept wildcard characters: 
+```
+
+
 ### CommonParameters
 This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable, -InformationAction, -InformationVariable, -OutVariable, -OutBuffer, -PipelineVariable, -Verbose, -WarningAction, and -WarningVariable. For more information, see about_CommonParameters (https://go.microsoft.com/fwlink/?LinkID=113216).
 
